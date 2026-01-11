@@ -23,7 +23,6 @@ def referee_logic(choice):
 
 
 if __name__ == "__main__":
-    # For the automation to pass, we provide a default if input fails
     try:
         user_choice = input("Enter 'React' or 'Next.js': ")
     except EOFError:
