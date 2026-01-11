@@ -26,3 +26,6 @@ def referee_logic(choice):
 print("Welcome to the Week 6 Referee Tool")
 user_choice = input("Enter 'React' or 'Next.js' to see the trade-offs: ")
 referee_logic(user_choice)
+print("Welcome to the Week 6 Referee Tool")
+choice = input("Enter 'React' or 'Next.js' to see the trade-offs: ")
+referee_logic(choice)
